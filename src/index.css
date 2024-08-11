@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul,
+li {
+  list-style-type: none;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: smaller;
+}
+body {
+  padding: 0 120px;
+
+  background-color: rgb(155, 155, 212);
+  background-color: rgb(141, 141, 247);
+  width: 100dvw;
+  height: 100dvh;
+  scroll-behavior: smooth;
+}
